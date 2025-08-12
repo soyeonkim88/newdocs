@@ -1,10 +1,7 @@
 ---
-description: Test settings
+description: This document contains several items and formats for testing gitbook features.
+coverY: 0
 ---
 
-# Test topic
+# Test documents1
 
-* dddddd
-* ffffff
-
-1. Select **Test** button.
