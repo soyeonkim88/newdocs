@@ -19,3 +19,19 @@ You can add subtopics.
 You can divided the selected topic.
 
 <figure><img src="../.gitbook/assets/level.PNG" alt=""><figcaption><p><strong>Fig 1. Safety symbols</strong></p></figcaption></figure>
+
+> \[!NOTE] Useful information that users should know, even when skimming content.
+
+
+
+{% hint style="danger" %}
+dddddddddd
+{% endhint %}
+
+{% hint style="warning" %}
+
+{% endhint %}
+
+{% hint style="info" %}
+dddddddd
+{% endhint %}
